@@ -15,8 +15,8 @@ More tools like SQL will be added as I progress.
 - Jupyter Notebook
 
 ## Projects
-1. **Data Cleaning** –Handling missing values, duplicates, and outliers in datasets like Tesla stock, Bitcoin price, and U.S. unemployment data.
-2. **Data Manipulation** – Using pandas for filtering, grouping, and transforming these datasets.
+1. **Data Cleaning** –Handling missing values, duplicates, and outliers in datasets like Tesla stock, Bitcoin price, and Nobel Prize.
+2. **Data Manipulation** – Using pandas for cleaning, filtering, grouping, transforming and maniplulating these datasets.
 3. **Data Visualization** – Exploring data visually with charts and plots, including line charts, bar charts, and dual-axis visualizations.
 
 
