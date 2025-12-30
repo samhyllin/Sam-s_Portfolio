@@ -1,23 +1,57 @@
-# Sam's Data Analytics Portfolio
+Sam's Data Analytics Portfolio
 
-Welcome to my data analytics portfolio.  
-I use Python to clean, manipulate, and visualize data.  
+Welcome to my data analytics portfolio.
+I explore, clean, and analyze data using Python and SQL, building projects that show real-world applications.
 
-This repository shows my learning journey in data analysis.  
-More tools like SQL will be added as I progress.
+This repository showcases my learning journey in data analysis.
+More tools and projects will be added as I progress.
 
-## Tools
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Numpy
-- Jupyter Notebook
+Tools
 
-## Projects
-1. **Data Cleaning** –Handling missing values, duplicates, and outliers in datasets like Tesla stock, Bitcoin price, Nobel Prize and Space mission analysis
-2. **Data Manipulation** – Using pandas for cleaning, filtering, grouping, transforming and maniplulating these datasets.
-3. **Data Visualization** – Exploring data visually with charts and plots, including line charts, bar charts, and dual-axis visualizations.
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+NumPy
+
+Jupyter Notebook
+
+MySQL
+
+Projects
+Data Cleaning (Python)
+
+Handled missing values, duplicates, and outliers in datasets such as Tesla stock, Bitcoin prices, Nobel Prize, and space mission data.
+
+Data Manipulation (Python)
+
+Cleaned, filtered, grouped, and transformed datasets using Pandas.
+
+Prepared data for deeper analysis or visualization.
+
+Data Visualization (Python)
+
+Created charts and plots including line charts, bar charts, and dual-axis visualizations.
+
+Explored data visually to identify trends and insights.
+
+SQL Projects
+
+World Layoffs Data Cleaning
+
+Cleaned and prepared a real-world layoffs dataset using MySQL.
+
+Removed duplicates and standardized text fields.
+
+Converted date columns to proper DATE format.
+
+Filled missing industry values using self-joins and row numbers.
+
+Prepared the dataset for further analysis or visualization.
 
 
 ## Contact
