@@ -1,45 +1,39 @@
-### Sam's Data Analytics Portfolio
+##### Sam's Data Analytics Portfolio
 
-Welcome to my data analytics portfolio.
+# Welcome to my data analytics portfolio.
+
 I explore, clean, and analyze data using Python and SQL, building projects that show real-world applications.
 
 This repository showcases my learning journey in data analysis.
-More tools and projects will be added as I progress.
 
 Tools
-
 Python
-
 Pandas
-
 Matplotlib
-
 Seaborn
-
 NumPy
-
 Jupyter Notebook
-
 MySQL
 
-Projects
-Data Cleaning (Python)
+### Projects
+
+## Data Cleaning (Python)
 
 Handled missing values, duplicates, and outliers in datasets such as Tesla stock, Bitcoin prices, Nobel Prize, and space mission data.
 
-Data Manipulation (Python)
+## Data Manipulation (Python)
 
 Cleaned, filtered, grouped, and transformed datasets using Pandas.
 
 Prepared data for deeper analysis or visualization.
 
-Data Visualization (Python)
+## Data Visualization (Python)
 
 Created charts and plots including line charts, bar charts, and dual-axis visualizations.
 
 Explored data visually to identify trends and insights.
 
-SQL Projects
+### SQL Projects
 
 World Layoffs Data Cleaning
 
