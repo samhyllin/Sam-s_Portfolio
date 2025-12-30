@@ -1,4 +1,4 @@
-Sam's Data Analytics Portfolio
+### Sam's Data Analytics Portfolio
 
 Welcome to my data analytics portfolio.
 I explore, clean, and analyze data using Python and SQL, building projects that show real-world applications.
