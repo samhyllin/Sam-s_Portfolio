@@ -1,6 +1,6 @@
-##### Sam's Data Analytics Portfolio
 
-#### Welcome to my data analytics portfolio.
+ ##### Sam's Data Analytics Portfolio
+
 
 I explore, clean, and analyze data using Python and SQL, building projects that show real-world applications.
 
@@ -15,7 +15,7 @@ NumPy
 Jupyter Notebook
 MySQL
 
-### Projects
+## Projects
 
 ## Data Cleaning (Python)
 
